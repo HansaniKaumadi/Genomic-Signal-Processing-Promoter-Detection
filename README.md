@@ -105,20 +105,6 @@ These plots visualize classification performance and help assess model quality.
 
 ---
 
-## 📂 Project Structure
-
-```text
-├── data/
-│   └── promoters.csv
-├── notebooks/
-│   └── promoter_gene_prediction.ipynb
-├── images/
-│   ├── confusion_matrix.png
-│   └── roc_curve.png
-├── requirements.txt
-└── README.md
-```
----
 
 ## 🚀 Future Improvements
 
